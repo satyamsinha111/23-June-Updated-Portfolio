@@ -2,7 +2,6 @@
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://github.com/satyamsinha111/23-June-Updated-Portfolio.git)
-* Install via npm: `npm i startbootstrap-resume`
 * Clone the repo: `git clone https://github.com/satyamsinha111/23-June-Updated-Portfolio.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/satyamsinha111/23-June-Updated-Portfolio.git)
 
